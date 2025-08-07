@@ -1,0 +1,11 @@
+A:\FB\bin\Debug\FB.exe.config
+A:\FB\bin\Debug\FB.exe
+A:\FB\bin\Debug\FB.pdb
+A:\FB\obj\Debug\FB.csproj.AssemblyReference.cache
+A:\FB\obj\Debug\FB.Form1.resources
+A:\FB\obj\Debug\FB.Properties.Resources.resources
+A:\FB\obj\Debug\FB.csproj.GenerateResource.cache
+A:\FB\obj\Debug\FB.csproj.CoreCompileInputs.cache
+A:\FB\obj\Debug\FB.exe
+A:\FB\obj\Debug\FB.pdb
+A:\FB\obj\Debug\FB.exe.config
